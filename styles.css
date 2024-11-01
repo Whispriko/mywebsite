@@ -1,0 +1,13 @@
+body {
+    background-image: url(https://www.google.com/imgres?q=banana&imgurl=https%3A%2F%2Fassets.bonappetit.com%2Fphotos%2F6579e7cf0b87a6df68ffe4ee%2F16%3A9%2Fw_5424%2Ch_3051%2Cc_limit%2FGettyImages-1206972716.jpeg&imgrefurl=https%3A%2F%2Fwww.bonappetit.com%2Fstory%2Fhow-to-ripen-bananas-fast&docid=5qy45DGFHxtx1M&tbnid=XOj7PvNv_6eqHM&vet=12ahUKEwiSqamI87uJAxX_48kDHULRAAEQM3oECHYQAA..i&w=5424&h=3051&hcb=2&ved=2ahUKEwiSqamI87uJAxX_48kDHULRAAEQM3oECHYQAA);
+}
+h1 {
+    color: blueviolet;
+}
+p {
+    color: darkorange;
+}
+#banna {
+    border-color: black;
+    color: yellow;
+}
